@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family:  Helvetica, Geneva, sans-serif;
+}
+
+.contenedor-padre{
+  
+    width: 100%;
+ 
+}
+
+header{
+    height: 100px;
+}
+
+
+
+figure img{
+    margin-top: 8px;
+    width: 10%;
+    margin-left: 43%;
+
+}
+
+#logo{
+    width: 12%;
+}
+
+#icono{
+    float: left;
+    left: 23%;
+    bottom: 88%;
+    position: absolute;
+    
+    
+}
+#icon-ubi{
+    margin-left: 137%;
+    width: 13%;
+   
+
+}
+#icon-user{
+    width: 13%;
+    margin-left: 170%;
+}
+
+#texto-1{
+  margin-left: 82%;
+  bottom: 41.3em;
+  position: absolute;
+  color: grey;
+    
+}
+
+nav{
+    text-align: center;
+    position: relative;
+    padding: 10px;
+    margin-right: 5%;
+}
+
+nav li a {
+    text-decoration: none;
+    color: grey;
+    list-style-type: none;
+    margin-left: 2%;
+}
+
+nav li{
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+}
