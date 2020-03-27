@@ -1,0 +1,46 @@
+h1,h2{
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+}
+
+#tall-cubo{
+	height: 80px;
+	background-color:rgb(0, 207, 243);
+	float: right;
+	margin: 30px;
+}
+
+#small-cubo{
+	height: 80px;
+	background-color:rgb(0, 207, 243);
+	position: absolute;
+	margin: 30px;
+}
+
+#section-cubo{
+	height: 200px;
+	background-color: rgb(241, 9, 117);
+	margin: 30px;
+}
+
+#margen{margin: 30px;}
+
+#art-1{
+	background-color: greenyellow;
+	height: 270px;
+	margin: 0px;
+
+}
+
+#art-2{
+	background-color: purple;
+	height: 270px;
+	margin: 0px;
+}
+
+#art-3{
+	background-color: orangered;
+	height: 270px;
+	margin: 0px ;
+}
